@@ -1,6 +1,5 @@
 # 🌐 Personal Portfolio — Muhamad Ali Akbar Abil Aziz
 
-![Preview](.img/saya.JPG)
 
 ## 📌 Tentang
 Ini adalah website portofolio saya yang dibangun menggunakan **HTML**, **CSS**, dan **JavaScript**.  
